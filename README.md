@@ -22,9 +22,11 @@ Repo for CS121 Lab 1
 ### headline lvl 3
 
 ```
+
 //this is a code section
 int testVar = 4;
+int main() {
+	printf("Hello");
+}
 
 ```
-
-### this was done on the website
