@@ -13,7 +13,7 @@ Repo for CS121 Lab 1
 
 * one
 * two
-* three
+* three *
     *italic*
     **bold**
 
