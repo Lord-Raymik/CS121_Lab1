@@ -4,6 +4,6 @@ class Hello {
 	} // end hello
 	
 	public static void main(String[] args) {
-		new Hello()
+		new Hello();
 	} // end main
 } // end class def
